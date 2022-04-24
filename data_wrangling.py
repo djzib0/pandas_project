@@ -39,8 +39,13 @@ nypd_motor_vehicle_collisions_short.to_excel('data/short_data.xlsx', index=0)
 #
 #
 """Do zrobienia"""
-# Wyrzucenie wierszy gdzie nie ma borough #
+# W kolumnie borough zmienic puste na "other"
+
 # Wykresy
-# Znaleźć zastosowanie dla iloc i loc, i wyznaczania ramek danych np. dzielnice/ulice, które mają powyżej jakieś ilości wypadków
+
+# Znaleźć zastosowanie dla iloc i loc, i wyznaczania ramek danych
+
+# dzielnice/ulice, które mają powyżej jakieś ilości wypadków
+
 # Napisać funkcje dla większego profesjonalizmu
 
